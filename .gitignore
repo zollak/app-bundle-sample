@@ -1,0 +1,6 @@
+.gradle
+.idea
+.DS_Store
+HelloWorld/app/build/intermediates/
+HelloWorld/app/build/generated/
+HelloWorld/app/build/tmp/
