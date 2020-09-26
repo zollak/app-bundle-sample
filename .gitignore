@@ -4,7 +4,6 @@ HelloWorld/app/build/intermediates/
 HelloWorld/app/build/generated/
 HelloWorld/app/build/tmp/
 HelloWorld/app/build/outputs/logs/
-*.iml
 /local.properties
 /.idea/caches
 /.idea/libraries
